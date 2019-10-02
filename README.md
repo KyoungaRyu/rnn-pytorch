@@ -19,7 +19,7 @@
 
 **2. Model**
 
- Recurrent Neural Network(RNN: LSTM-based model)
+ Recurrent Neural Network(RNN)
  
  The model uses the nn.LSTM module to get better results. 
 
