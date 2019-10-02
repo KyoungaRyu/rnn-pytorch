@@ -39,6 +39,6 @@ of the flow of information inside the LSTM unit: an input gate, an output gate a
 
 **4. Conclusion**
 
-It shows pos(1) and neg(0) as the results. 
+This RNN model of validation dataset shows % of accuracy as the results. 
 
 
