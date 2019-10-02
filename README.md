@@ -1,6 +1,6 @@
-# RNN(Recurrent Neural Network) 
+# Naver Sentiment Movie Corpus
 
-### Naver Sentiment Movie Corpus
+### RNN(Recurrent Neural Network)/ PyTorch 
 
  This is a sentiment analysis of Naver Movie Reviews using PyTorch. 
  To analyze movie corpus, Konlpy needs to be installed with Korean tokenizer(twitter- Open Korean Text). 
