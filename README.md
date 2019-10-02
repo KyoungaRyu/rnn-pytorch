@@ -3,11 +3,15 @@
 ### RNN(Recurrent Neural Network)/ PyTorch 
 
  This is a sentiment analysis of Naver Movie Reviews using PyTorch. 
+ 
  To analyze movie corpus, Konlpy needs to be installed with Korean tokenizer(twitter- Open Korean Text). 
+ 
+ 
 
 **1. Dataset** 
 
  Data from [Naver Movie Review](https://movie.naver.com/movie/point/af/list.nhn). 
+ 
  Tabular dataset includes id, document, and label, which is 'tsv' format. 
  ('tsv' format delimits columns with tabs.)
 
@@ -16,6 +20,7 @@
 **2. Model**
 
  Recurrent Neural Network(RNN: LSTM-based model)
+ 
  The model uses the nn.LSTM module to get better results. 
 
 
