@@ -22,7 +22,7 @@ The model uses the nn.LSTM module to get better results.
 Long-Short-Term-Memory (LSTM) Architecture
 
 ![](/lstm.png)
-[Reference](https://excelsior-cjh.tistory.com/185)
+                                                         [Reference](https://excelsior-cjh.tistory.com/185)
 
 There are several architectures of LSTM usually consists of three regularators, called gates, 
 of the flow of information inside the LSTM unit: an input gate, an output gate and a forget gate. 
