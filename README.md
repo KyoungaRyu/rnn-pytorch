@@ -33,7 +33,7 @@ Long-Short-Term-Memory (LSTM) Architecture
                                                          [Reference](https://excelsior-cjh.tistory.com/185)
                                                          
                                                     
- There are several architectures of LSTM usually consists of three regularators, called gates, 
+ LSTM architecture usually consists of three regularators, called gates, 
 of the flow of information inside the LSTM unit: an input gate, an output gate and a forget gate. 
 
 
