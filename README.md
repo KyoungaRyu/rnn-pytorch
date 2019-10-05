@@ -39,6 +39,6 @@ of the flow of information inside the LSTM unit: an input gate, an output gate a
 
 **4. Conclusion**
 
-This RNN model of validation dataset shows % of accuracy as the results. 
+This RNN model of validation dataset shows 85% of accuracy as the results. 
 
 
