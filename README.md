@@ -10,7 +10,7 @@
 
 **1. Dataset** 
 
- Data from [Naver Movie Review](https://movie.naver.com/movie/point/af/list.nhn). 
+ Data from [Naver Movie Review Dataset](https://movie.naver.com/movie/point/af/list.nhn). 
  
  Tabular dataset includes id, document, and label, which is 'tsv' format. 
  ('tsv' format delimits columns with tabs.)
